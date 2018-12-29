@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calling</string>
+    <string name="btn1">Call Anyone</string>
+    <string name="btn2">Call your best friend</string>
+</resources>
